@@ -1,0 +1,3 @@
+Save your resume in this folder as resume.pdf
+The "Download Resume" buttons point to /resume.pdf
+You can delete this text file afterwards.
