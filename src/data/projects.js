@@ -11,7 +11,7 @@ export const projects = [
     name: "Ujjain Samachar",
     role: "Freelance Web Developer",
     description:
-      "A full-stack news website designed and built for a real news organization, covering the public site, backend APIs, database, media uploads and news management.",
+      "A full-stack news website designed and built for a real news organization, covering the public site, backend APIs, database, media uploads and news management. Now Working On Gen Ai Integration",
     stack: ["HTML", "CSS", "JavaScript", "FastAPI", "MongoDB", "Cloudinary"],
     features: [
       "Frontend and backend built end to end",
