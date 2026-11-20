@@ -58,6 +58,7 @@ export const experience = {
   client: "Ujjain Samachar",
   type: "Freelance client work",
   points: [
+    "currently Working on Adding Generative AI feature of Newspaper Generation provided by REG documents",
     "Developed a production website for a real news organization.",
     "Built both frontend and backend functionality, from page layouts to server logic.",
     "Integrated FastAPI APIs to serve and manage news content.",
