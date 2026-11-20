@@ -21,7 +21,7 @@ export const projects = [
       "News management functionality",
     ],
     github: "https://github.com/anadimehta09/ujjain-samachar",
-    demo: "https://ujjain-samachar-1.onrender.com",
+    demo: "https://ujjainsamachar.in/",
   },
   {
     id: "ai-resume-analyzer",
