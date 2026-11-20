@@ -50,7 +50,7 @@ export const projects = [
       "REST API backend",
     ],
     github: "https://github.com/anadimehta09/ai-resume-analyzer",
-  demo: "www.ujjainsamachar.in",
+    demo: "ai-resume-analyzer-52oo6ff3g-anadimehta09.vercel.app",
   },
   {
     id: "showmate",
